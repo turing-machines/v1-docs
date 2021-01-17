@@ -15,4 +15,5 @@
   * [Installing K3s](install-kubernetes-k3s/installing-k3s/README.md)
     * [Reset K3s](install-kubernetes-k3s/installing-k3s/reset-k3s.md)
 * [FAQ](faq.md)
+* [Community projects](community-projects.md)
 

@@ -152,7 +152,7 @@ Device Address: 0x57h
 | 0xF8h | Status Register | – |
 | 0xFAh to 0xFFh | 6 bytes of general-purpose user SRAM | – |
 
-#### Power Management <a id="power-management"></a>
+### Power Management
 
 On/off compute module through register 0xF2h
 

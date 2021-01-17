@@ -16,5 +16,3 @@
     * [Reset K3s](install-kubernetes-k3s/installing-k3s/reset-k3s.md)
 * [FAQ](faq.md)
 
-## group
-

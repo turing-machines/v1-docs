@@ -1,2 +1,2 @@
-# Get started
+# Getting started
 

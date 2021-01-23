@@ -2,6 +2,11 @@
 
 * [Turing Pi V1 documentation](README.md)
 * [Specs](specs.md)
+* [Getting started](get-started/README.md)
+  * [Power supply](get-started/power-supply.md)
+  * [Heatsink](get-started/heatsink.md)
+  * [Supported compute modules](get-started/supported-compute-modules.md)
+  * [Flashing compute modules](get-started/flashing-compute-modules.md)
 * [Cluster Management Bus \(i2c\)](cluster-management-bus-i2c.md)
 * [Install Kubernetes \(k3s\)](install-kubernetes-k3s/README.md)
   * [Finding IP addresses](install-kubernetes-k3s/finding-ip-addresses.md)
@@ -11,10 +16,5 @@
 * [Mini ITX case](mini-itx-case.md)
 * [FAQ](faq.md)
 * [Community projects](community-projects.md)
-* [Getting started](get-started/README.md)
-  * [Power supply](get-started/power-supply.md)
-  * [Heatsink](get-started/heatsink.md)
-  * [Supported compute modules](get-started/supported-compute-modules.md)
-  * [Flashing compute modules](get-started/flashing-compute-modules.md)
 * [Troubleshooting](troubleshooting.md)
 

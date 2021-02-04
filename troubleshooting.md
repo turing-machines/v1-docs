@@ -13,3 +13,12 @@ If you have issues with the network on your please check the following:
 
 ![Network switch chip location on the board](.gitbook/assets/image%20%287%29.png)
 
+## The nodes are boot looping
+
+If the nodes on the Turing Pi 1 board are boot looping, there are few things you should check
+
+1. Check if you use a proper power supply. You should use 12V, 5A, 60W power supply. Please read more about the power supply [here](get-started/power-supply.md).
+2. The second thing that could cause this issue is if you run apps that require a lot of RAM and the total RAM on the board is insufficient. 
+
+
+

@@ -10,7 +10,8 @@ To power the Turing Pi V1 board you can use two options - power adaptor and ATX 
 
 ### Some of the tested power supplies:
 
-[LEDMO Power Supply](https://amzn.to/2WGjEVx)
+- [LEDMO Power Supply](https://amzn.to/2WGjEVx)
+- [Waysse Power Supply](https://www.amazon.com/gp/product/B08C594VNP)
 
 ## ATX power supply
 
